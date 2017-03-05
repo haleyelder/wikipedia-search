@@ -1,1 +1,1 @@
-"# Wikipedia Search API" 
+# Wikipedia Search API
